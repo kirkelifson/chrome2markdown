@@ -29,3 +29,7 @@ $ ruby test.rb
 
 [snip]
 ```
+
+###Rubygems website
+
+[https://rubygems.org/gems/chrome2markdown](https://rubygems.org/gems/chrome2markdown)
